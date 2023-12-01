@@ -8,7 +8,6 @@ int main(){
 	adfa
 		adf';
 
-	121212123;
 	
 	printf("\n");
 }
