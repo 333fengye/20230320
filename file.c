@@ -2,13 +2,6 @@
 
 
 int main(){
-
-	printf("");
-
-	adfa
-		adf';
-
-	
 	printf("\n");
 }
 
